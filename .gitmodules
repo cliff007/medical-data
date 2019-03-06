@@ -1,0 +1,6 @@
+[submodule "medical-data"]
+	path = medical-data
+	url = git@github.com:cliff007/medical-data.git
+[submodule "test_submodule_bladder"]
+	path = test_submodule_bladder
+	url = ssh://git@182.92.197.42:22056/AlgorithmPlatform/test_submodule_bladder.git
